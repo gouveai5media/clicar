@@ -70,7 +70,7 @@ export function SiteFooter() {
         <div><SiteBrand /><p>Climatização, manutenção predial, instalações e reformas com qualidade, segurança e eficiência.</p></div>
         <div><strong>Navegação</strong><a href="/">Início</a><a href="/sobre-nos">Quem somos</a><a href="/servicos">Serviços</a><a href="/contato">Contato</a></div>
         <div><strong>Serviços</strong><a href="/servicos/instalacao-de-ar-condicionado">Instalação de ar</a><a href="/servicos/manutencao-de-ar-condicionado">Manutenção de ar</a><a href="/servicos/pmoc">PMOC</a><a href="/servicos/reformas-comerciais-e-residenciais">Reformas</a></div>
-        <div><strong>Contato</strong><a href="tel:+5511947330170">11 94733-0170</a><a href="tel:+5511976009837">11 97600-9837</a><a href="mailto:contato@clicair.com.br">contato@clicair.com.br</a><span>São Paulo — SP</span></div>
+        <div><strong>Contato</strong><a href="https://wa.me/5511947330170" target="_blank" rel="noreferrer">11 94733-0170</a><a href="https://wa.me/5511976009837" target="_blank" rel="noreferrer">11 97600-9837</a><a href="mailto:Financeiro@clicair.com.br">Financeiro@clicair.com.br</a><a href="https://www.instagram.com/clic_air?stkn=MW44ZmNhc3gxOWQxaQ==" target="_blank" rel="noreferrer">Instagram @clic_air</a></div>
       </div>
       <div className="container footer-bottom"><span>© 2026 Grupo Clic. Todos os direitos reservados.</span><span>Qualidade em cada detalhe.</span></div>
     </footer>

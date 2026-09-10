@@ -475,13 +475,13 @@ export default function Home() {
             >
               Solicitar orçamento <ArrowRight size={18} />
             </a>
-            <a className="phone-link" href="tel:+551123664448">
+            <a className="phone-link" href="https://wa.me/5511976009837" target="_blank" rel="noreferrer">
               <span>
                 <Phone size={19} />
               </span>
               <div>
-                <small>Telefone fixo</small>
-                <strong>11 2366-4448</strong>
+                <small>WhatsApp comercial</small>
+                <strong>11 97600-9837</strong>
               </div>
             </a>
           </div>
@@ -513,10 +513,10 @@ export default function Home() {
           </div>
           <div>
             <strong>Contato</strong>
-            <a href="tel:+5511947330170">11 94733-0170</a>
-            <a href="tel:+5511976009837">11 97600-9837</a>
-            <a href="mailto:contato@clicair.com.br">contato@clicair.com.br</a>
-            <span>São Paulo — SP</span>
+            <a href="https://wa.me/5511947330170" target="_blank" rel="noreferrer">11 94733-0170</a>
+            <a href="https://wa.me/5511976009837" target="_blank" rel="noreferrer">11 97600-9837</a>
+            <a href="mailto:Financeiro@clicair.com.br">Financeiro@clicair.com.br</a>
+            <a href="https://www.instagram.com/clic_air?stkn=MW44ZmNhc3gxOWQxaQ==" target="_blank" rel="noreferrer">Instagram @clic_air</a>
           </div>
         </div>
         <div className="container footer-bottom">

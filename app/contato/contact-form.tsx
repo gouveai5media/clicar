@@ -21,7 +21,7 @@ export function ContactForm() {
       "",
       `Detalhes: ${data.get("mensagem")}`,
     ].join("\n");
-    window.open(`https://wa.me/5511947330170?text=${encodeURIComponent(text)}`, "_blank", "noopener,noreferrer");
+    window.open(`https://wa.me/5511976009837?text=${encodeURIComponent(text)}`, "_blank", "noopener,noreferrer");
     setSending(false);
   }
 
