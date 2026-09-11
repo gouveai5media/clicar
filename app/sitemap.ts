@@ -1,8 +1,10 @@
 import type { MetadataRoute } from "next";
 import { services } from "@/lib/services";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://clicair-premium.gouvea47.chatgpt.site";
+  const base = "https://clicair.com.br";
   return [
     { url: base, changeFrequency: "monthly", priority: 1 },
     { url: `${base}/sobre-nos`, changeFrequency: "yearly", priority: 0.7 },
