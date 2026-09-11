@@ -2,12 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://clicair-premium.gouvea47.chatgpt.site"),
+  metadataBase: new URL("https://clicair.com.br"),
   title: "Clic Air | Climatização e Reformas",
   description: "Soluções completas em climatização, manutenção predial e reformas para residências e empresas.",
-  other: {
-    "codex-preview": "development",
-  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
