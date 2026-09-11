@@ -885,6 +885,13 @@ footer .brand {
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
+.footer-bottom a {
+  transition: color 0.2s ease;
+}
+.footer-bottom a:hover,
+.footer-bottom a:focus-visible {
+  color: var(--green);
+}
 .whatsapp-float {
   position: fixed;
   z-index: 40;

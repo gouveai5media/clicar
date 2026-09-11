@@ -72,7 +72,7 @@ export function SiteFooter() {
         <div><strong>Serviços</strong><a href="/servicos/instalacao-de-ar-condicionado">Instalação de ar</a><a href="/servicos/manutencao-de-ar-condicionado">Manutenção de ar</a><a href="/servicos/pmoc">PMOC</a><a href="/servicos/reformas-comerciais-e-residenciais">Reformas</a></div>
         <div><strong>Contato</strong><a href="https://wa.me/5511947330170" target="_blank" rel="noreferrer">11 94733-0170</a><a href="https://wa.me/5511976009837" target="_blank" rel="noreferrer">11 97600-9837</a><a href="mailto:Financeiro@clicair.com.br">Financeiro@clicair.com.br</a><a href="https://www.instagram.com/clic_air?stkn=MW44ZmNhc3gxOWQxaQ==" target="_blank" rel="noreferrer">Instagram @clic_air</a></div>
       </div>
-      <div className="container footer-bottom"><span>© 2026 Grupo Clic. Todos os direitos reservados.</span><span>Qualidade em cada detalhe.</span></div>
+      <div className="container footer-bottom"><span>© 2026 Grupo Clic. Todos os direitos reservados.</span><a href="https://agencia.i5m.com.br/" target="_blank" rel="noreferrer">Site desenvolvido por I5Media</a></div>
     </footer>
   );
 }

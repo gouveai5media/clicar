@@ -521,7 +521,7 @@ export default function Home() {
         </div>
         <div className="container footer-bottom">
           <span>© 2026 Grupo Clic. Todos os direitos reservados.</span>
-          <span>Qualidade em cada detalhe.</span>
+          <a href="https://agencia.i5m.com.br/" target="_blank" rel="noreferrer">Site desenvolvido por I5Media</a>
         </div>
       </footer>
       <a
