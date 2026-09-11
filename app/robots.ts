@@ -1,8 +1,10 @@
 import type { MetadataRoute } from "next";
 
+export const dynamic = "force-static";
+
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: { userAgent: "*", allow: "/" },
-    sitemap: "https://clicair-premium.gouvea47.chatgpt.site/sitemap.xml",
+    sitemap: "https://clicair.com.br/sitemap.xml",
   };
 }
